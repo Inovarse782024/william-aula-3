@@ -5,7 +5,7 @@ body{
 }
 header{
     background-color: #333;
-    color: #fff;
+    color: #294bd5;
     padding: 20px;
     text-align: center;
 }
@@ -17,9 +17,11 @@ nav ul {
     list-style-type:none;
     margin: 0;
     padding: 0;
-    nav ul li{
+    nav ul li 
+}
+    {
         display:inline;
-        margin-right:10px;
+        margin-right: 10px;
     }
     nav ul li a {
         color: #fff;
@@ -33,4 +35,4 @@ nav ul {
         color: #fff;
         padding: 10px;
         text-align: center;
-        
+         }
